@@ -1,0 +1,15 @@
+C:\projects C#\ConsoleTester\ConsoleTester\bin\Debug\net6.0\ConsoleTester.exe
+C:\projects C#\ConsoleTester\ConsoleTester\bin\Debug\net6.0\ConsoleTester.deps.json
+C:\projects C#\ConsoleTester\ConsoleTester\bin\Debug\net6.0\ConsoleTester.runtimeconfig.json
+C:\projects C#\ConsoleTester\ConsoleTester\bin\Debug\net6.0\ConsoleTester.dll
+C:\projects C#\ConsoleTester\ConsoleTester\bin\Debug\net6.0\ConsoleTester.pdb
+C:\projects C#\ConsoleTester\ConsoleTester\obj\Debug\net6.0\ConsoleTester.csproj.AssemblyReference.cache
+C:\projects C#\ConsoleTester\ConsoleTester\obj\Debug\net6.0\ConsoleTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects C#\ConsoleTester\ConsoleTester\obj\Debug\net6.0\ConsoleTester.AssemblyInfoInputs.cache
+C:\projects C#\ConsoleTester\ConsoleTester\obj\Debug\net6.0\ConsoleTester.AssemblyInfo.cs
+C:\projects C#\ConsoleTester\ConsoleTester\obj\Debug\net6.0\ConsoleTester.csproj.CoreCompileInputs.cache
+C:\projects C#\ConsoleTester\ConsoleTester\obj\Debug\net6.0\ConsoleTester.dll
+C:\projects C#\ConsoleTester\ConsoleTester\obj\Debug\net6.0\refint\ConsoleTester.dll
+C:\projects C#\ConsoleTester\ConsoleTester\obj\Debug\net6.0\ConsoleTester.pdb
+C:\projects C#\ConsoleTester\ConsoleTester\obj\Debug\net6.0\ConsoleTester.genruntimeconfig.cache
+C:\projects C#\ConsoleTester\ConsoleTester\obj\Debug\net6.0\ref\ConsoleTester.dll

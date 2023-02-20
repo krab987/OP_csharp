@@ -1,0 +1,11 @@
+C:\projects\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\projects\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.SuggestedBindingRedirects.cache
+C:\projects\Lab_2\Lab_2\obj\Debug\Lab_2.Lab2.resources
+C:\projects\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\projects\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\projects\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\projects\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\projects\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\projects\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\projects\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\projects\Lab_2\Lab_2\obj\Debug\Lab_2.pdb

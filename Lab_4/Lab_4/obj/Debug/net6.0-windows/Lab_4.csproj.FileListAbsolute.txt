@@ -1,0 +1,17 @@
+C:\projects C#\Lab_4\Lab_4\bin\Debug\net6.0-windows\Lab_4.exe
+C:\projects C#\Lab_4\Lab_4\bin\Debug\net6.0-windows\Lab_4.deps.json
+C:\projects C#\Lab_4\Lab_4\bin\Debug\net6.0-windows\Lab_4.runtimeconfig.json
+C:\projects C#\Lab_4\Lab_4\bin\Debug\net6.0-windows\Lab_4.dll
+C:\projects C#\Lab_4\Lab_4\bin\Debug\net6.0-windows\Lab_4.pdb
+C:\projects C#\Lab_4\Lab_4\obj\Debug\net6.0-windows\Lab_4.csproj.AssemblyReference.cache
+C:\projects C#\Lab_4\Lab_4\obj\Debug\net6.0-windows\Lab_4.Lab_4.resources
+C:\projects C#\Lab_4\Lab_4\obj\Debug\net6.0-windows\Lab_4.csproj.GenerateResource.cache
+C:\projects C#\Lab_4\Lab_4\obj\Debug\net6.0-windows\Lab_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects C#\Lab_4\Lab_4\obj\Debug\net6.0-windows\Lab_4.AssemblyInfoInputs.cache
+C:\projects C#\Lab_4\Lab_4\obj\Debug\net6.0-windows\Lab_4.AssemblyInfo.cs
+C:\projects C#\Lab_4\Lab_4\obj\Debug\net6.0-windows\Lab_4.csproj.CoreCompileInputs.cache
+C:\projects C#\Lab_4\Lab_4\obj\Debug\net6.0-windows\Lab_4.dll
+C:\projects C#\Lab_4\Lab_4\obj\Debug\net6.0-windows\refint\Lab_4.dll
+C:\projects C#\Lab_4\Lab_4\obj\Debug\net6.0-windows\Lab_4.pdb
+C:\projects C#\Lab_4\Lab_4\obj\Debug\net6.0-windows\Lab_4.genruntimeconfig.cache
+C:\projects C#\Lab_4\Lab_4\obj\Debug\net6.0-windows\ref\Lab_4.dll
